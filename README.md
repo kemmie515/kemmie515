@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kemmie515
-- 👀 I’m interested in UI design.
+- 👀 I’m interested in UI/UX design.
 - 🌱 I’m currently learning Javascript..
 - 💞️ I’m looking to collaborate on Front end developing...
 - 📫 How to reach me ...
